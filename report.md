@@ -4,17 +4,17 @@
 
 Был написан, следующий код:
 
-
-1.        public class Main {
-2.        public static void main(String[] args) {
-3.        int a = 2_000_000_000;
-4.        int b = 700_000_000;
-5.        int c;
-6.        c = a + b;
-7.            System.out.println(c);
-8.        }
-9.        }
-
+```
+public class Main {
+    public static void main(String[] args) {
+        int a = 2_000_000_000;
+        int b = 100_000_000;
+        int c;
+        c = a + b;
+        System.out.println(c);
+    }
+}
+```
 ## Описание тестов
 
 25.12.2020 - 25.12.2020 было проведено Функциональное тестирование (functional testing) приложения Money Transfer.
