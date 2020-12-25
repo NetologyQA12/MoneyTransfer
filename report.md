@@ -5,15 +5,15 @@
 Был написан, следующий код:
 
 
-1.  public class Main {
-2.  public static void main(String[] args) {
+1.        public class Main {
+2.        public static void main(String[] args) {
 3.        int a = 2_000_000_000;
 4.        int b = 700_000_000;
 5.        int c;
 6.        c = a + b;
 7.            System.out.println(c);
 8.        }
-9.  }
+9.        }
 
 ## Описание тестов
 
