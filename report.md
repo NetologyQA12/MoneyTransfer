@@ -38,5 +38,7 @@ int b = 100_000_000
 
 
 ОС Windows 10 x64
+
 Java Version 11.0.8
+
 ПО IntelliJ IDEA Community Edition 2020.2.3 x64
