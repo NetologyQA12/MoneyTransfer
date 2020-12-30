@@ -29,7 +29,7 @@ int b = 100_000_000
 ## Результаты
 
 1. 100 % успешных тестов
-2. https://github.com/NetologyQA12/MoneyTransfer/issues/1
+2. [Баг. Не допустимое значение в переменной int](https://github.com/NetologyQA12/MoneyTransfer/issues/1)
 
 ## Общие рекомендации
 
